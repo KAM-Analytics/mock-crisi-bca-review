@@ -17,8 +17,8 @@ The project remains economically justified under both discount rates, though res
 
 ## Reviewer Summary Snapshot
 
-![Reviewer Findings](reviewer_findings.png)
-![Reviewer Summary](reviewer_summary.png)
+- [Reviewer Findings (PNG)](reviewer_findings.png)
+- [Reviewer Summary (PNG)](reviewer_summary.png)
 
 ## Overview
 
