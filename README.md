@@ -15,6 +15,11 @@ Revised results:
 
 The project remains economically justified under both discount rates, though results are sensitive to projected traffic growth.
 
+## Reviewer Summary Snapshot
+
+![Reviewer Findings](images/reviewer_findings.png)
+![Reviewer Summary](images/reviewer_summary.png)
+
 ## Overview
 
 This repository demonstrates a mock review of a CRISI-style Benefit-Cost Analysis (BCA) aligned with OMB Circular A-4 and OMB Circular A-94 guidance.
