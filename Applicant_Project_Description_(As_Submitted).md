@@ -1,4 +1,4 @@
-# 1. Applicant Project Description (As Submitted)
+# Applicant Project Description (As Submitted)
 
 ---
 
