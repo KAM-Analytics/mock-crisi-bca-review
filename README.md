@@ -12,7 +12,9 @@ This repository demonstrates a mock review of a CRISI-style Benefit-Cost Analysi
 
 The review includes:
 
-- Reconstruction of applicant BCA  
+- Applicant Project Description (As Submitted) (Applicant_Project_Description_(As_Submitted).md)
+- Reconstruction of applicant BCA  (applicant_submission_build.ipynb)
+- Mock applicant BCA (applicant_submission.xlsx)
 - Identification of methodological issues  
 - Adjustment of assumptions  
 - Recalculation of Benefit-Cost Ratio (BCR)  
