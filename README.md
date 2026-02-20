@@ -15,10 +15,10 @@ The review includes:
 - Applicant Project Description (As Submitted) (Applicant_Project_Description_(As_Submitted).md)
 - Reconstruction of applicant BCA  (applicant_submission_build.ipynb)
 - Mock applicant BCA (applicant_submission.xlsx)
-- Identification of methodological issues  
-- Adjustment of assumptions  
-- Recalculation of Benefit-Cost Ratio (BCR)  
-- Documentation of review findings  
+- Reviewer Adjustments (reviewer_analysis.ipynb; reviewer_summary.xlsx)
+  - Adjustment of assumptions  
+  - Recalculation of Benefit-Cost Ratio (BCR)  
+  - Documentation of review findings  
 
 ---
 
